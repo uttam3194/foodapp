@@ -41,3 +41,57 @@
         2. Add ts
         3. Add html
         4. Add css
+8. Food Page
+    1. Add method to food service
+    2. Generate food page component
+        1. Add Route
+        2. Add ts
+        3. Add html
+        4. Add css
+ 9. Cart Page
+    1. Create Cart Item Model
+    2. Create Cart Model
+    3. Generate Cart Service
+    4. Add to cart button in Food Page
+    5. Generate cart page component
+        1. Add Route
+        2. Add ts
+        3. Add html
+        4. Add css
+10. Not found!
+    1. Generate Component
+        1. Add ts
+        2. Add html
+        3. Add css
+    2. Add to pages
+        1. Home Page
+        2. Food Page
+        3. Cart Page
+11. Connect to Backend
+    1. Create Backend folder
+    2. npm init
+    3. npm install typescript
+    4. Create tsconfig.json
+    5. Create .gitignore
+    6. Copy data.ts to backend/src
+    7. npm install express cors
+    8. Create server.ts
+        1. install @types
+        2. Add APIs
+    9. npm install ts-node --save-dev
+    10. npm install nodemon --save-dev
+    11. Add urls.ts to frontend under shared/constants folder
+    12. Add HttpClient module
+    13. Update food service
+12. Login Page
+    1. Generate Component
+        1. Add to routes
+        2. Add ts
+        3. Add html
+            1. Import Reactive Forms Module
+        4. Add css
+    2. Add Login Api
+        1. Use Json
+        2. Add jsonwebtoken
+        3. Test using postman
+    3. 
