@@ -94,4 +94,18 @@
         1. Use Json
         2. Add jsonwebtoken
         3. Test using postman
-    3. 
+    3. Generate User Service
+        1. Generate User Model
+        2. Add user subject
+        3. Add Login Method
+            1. Add user urls
+            2. Generate IUserLogin Interface
+            3. Add ngx-toastr
+                1. Import Module
+                2. Import BrowserAnimationsModule
+                3. Add styles in angular.json
+            4. Add to header
+        4. Add Local Storage Methods
+        5. Add Logout Method
+            1. Add to header
+            
